@@ -1,0 +1,27 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz%20CLS-Class"
+
+generations:
+  - name: "First Generation (C219)"
+    start_year: 2004
+    end_year: 2010
+    description: "The first-generation CLS was designed by Michael Fink in 2001. Based on the W211 E-Class platform, it was marketed as a four-door coupe. Production ran from 2004 to 2010."
+    platform: "W211 E-Class"
+
+  - name: "Second Generation (C218)"
+    start_year: 2011
+    end_year: 2014
+    description: "The second-generation CLS was sold from 2011 to 2018. Available as a 4-door coupe and a 5-door estate (Shooting Brake). This generation introduced all-wheel drive (4MATIC)."
+    platform: "C218"
+
+  - name: "Second Generation Facelift (C218)"
+    start_year: 2014
+    end_year: 2018
+    description: "The C218 received a facelift in 2014 featuring design changes, engine enhancements, and the adoption of the Mercedes 9G-Tronic automatic transmission."
+    platform: "C218"
+
+  - name: "Third Generation (C257)"
+    start_year: 2018
+    end_year: 2023
+    description: "The third-generation CLS is available only as a four-door sedan with rear-wheel or all-wheel drive. Features a 2.9L straight-six diesel and 3.0L straight-six petrol with mild hybrid on CLS 53 AMG. Production ended August 31, 2023."
+    platform: "C257"
